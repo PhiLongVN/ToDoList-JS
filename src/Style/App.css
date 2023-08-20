@@ -1,0 +1,9 @@
+@import url(./font.css);
+@import url(./reset.css);
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
